@@ -1,0 +1,13 @@
+tensorflow>=2.10.0
+numpy
+pandas
+opencv-python
+Pillow
+matplotlib
+scikit-learn
+scikit-image
+albumentations
+jupyter
+streamlit
+flask
+tqdm
